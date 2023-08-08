@@ -1,0 +1,7 @@
+
+
+#libs
+dt_venv/
+
+#secrets
+.env
