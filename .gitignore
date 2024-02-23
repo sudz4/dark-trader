@@ -5,3 +5,7 @@ dt_venv/
 
 #secrets
 .env
+
+# trading view proprietary
+trading_view_raw_data/
+
