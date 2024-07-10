@@ -9,4 +9,10 @@ dt_venv/
 # trading view proprietary
 trading_view_raw_data/
 
-unit_TEST/
+/unit_TEST
+
+/ZZZZzzzz
+
+/IDEA
+
+/technical_notes
